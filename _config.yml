@@ -14,12 +14,12 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Karthik Mahadevan
+title: "Karthik Mahadevan"
 
 # Short description of your site
-description: Welcome to my website. I am a MSc student at the University
+description: "Welcome to my website. I am a MSc student at the University
 of Calgary, supervised by Dr. Ehud Sharlin & Dr. Sowmya Somanath. My research
-interests are in the realm of human-robot interaction.
+interests are in the realm of human-robot interaction."
 
 # --- Navigation bar options --- #
 
