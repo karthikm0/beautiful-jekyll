@@ -25,6 +25,7 @@ interests are in the realm of human-robot interaction."
 
 # List of links in the navigation bar
 navbar-links:
+  About Me: "aboutme"
   CV: "https://drive.google.com/file/d/1GIOBsoOL9Hxp5S2MBrEhix2kVxF8D6Qs/view?usp=sharing"
   Projects: "projects"
   Publications: "publications"
