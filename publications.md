@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ### Peer-Reviewed
-[1](https://drive.google.com/file/d/1kHu27P6i4ICVxfAhdcj-c53FAUsyFIHQ/view?usp=sharing) Karthik Mahadevan, Sowmya Somanath, and Ehud Sharlin. Communicating Awareness and Intent in Autonomous Vehicle-Pedestrian Interaction. In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI), 2018. **_Acceptance Rate: 25.7%._**
+[1](https://drive.google.com/file/d/1kHu27P6i4ICVxfAhdcj-c53FAUsyFIHQ/view?usp=sharing) Karthik Mahadevan, Sowmya Somanath, and Ehud Sharlin. Communicating Awareness and Intent in Autonomous Vehicle-Pedestrian Interaction. In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI), 2018.
 
 [2](https://drive.google.com/file/d/1yz_Ei0KA-BRhQC-RPo1XOvE9xAHZFsJr/view?usp=sharing)Karthik Mahadevan, Sowmya Somanath, and Ehud Sharlin. Enabling Pedestrian Communication with Autonomous Vehicles. In CHI 2018 Workshop Interacting with Autonomous Vehicles: Learning from other Domains, 2018. (Position Paper).
 
