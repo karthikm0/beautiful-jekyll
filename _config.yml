@@ -36,7 +36,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/hello.jpg"
+avatar: "img/hello.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -75,11 +75,11 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
+  #rss: false
   linkedin: karthikm0
   email: "karthik@ualberta.ca"
-  #facebook: daattali
-  github: daattali
+#  facebook: daattali
+#  github: daattali
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
