@@ -76,8 +76,8 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  linkedin: "https://www.linkedin.com/in/karthikm0/"
+  rss: false
+  linkedin: karthikm0
   email: "karthik@ualberta.ca"
   facebook: daattali
   github: daattali
