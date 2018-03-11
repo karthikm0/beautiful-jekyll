@@ -25,7 +25,7 @@ interests are in the realm of human-robot interaction."
 
 # List of links in the navigation bar
 navbar-links:
-  CV: "aboutme"
+  CV: "https://drive.google.com/file/d/1GIOBsoOL9Hxp5S2MBrEhix2kVxF8D6Qs/view?usp=sharing"
   Projects: ""
   Publications: ""
 
@@ -77,11 +77,11 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: false
-  linkedin: karthikm0
+  linkedin: in/karthikm0
   email: "karthik@ualberta.ca"
-  facebook: daattali
+  #facebook: daattali
   github: daattali
-  twitter: daattali
+#  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
 
