@@ -2,5 +2,6 @@
 layout: page
 title: About Me
 ---
-![Me](img/Mahadevan_Karthik.jpg)
+![Me](img/Mahadevan_Karthik.jpg). 
+
 I am currently a MSc student in the Department of Computer Science at the University of Calgary, Canada. I am supervised by Dr. Ehud Sharlin from the University of Calgary and Dr. Sowmya Somanath from OCAD University. I am passionate about research in the realm of human-robot interaction. I hold a BSc in Electrical Engineering from the University of Alberta, Canada.
