@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ### Peer-Reviewed
-[[1]] Karthik Mahadevan, Elaheh Sanoubari, Sowmya Somanath, James E. Young and Ehud Sharlin. AV-Pedestrian Interaction Design Using a Pedestrian Mixed Traffic Simulator. _In Proceedings of the ACM Conference on Designing Interactive Systems (DIS), 2019._
+[1] Karthik Mahadevan, Elaheh Sanoubari, Sowmya Somanath, James E. Young and Ehud Sharlin. AV-Pedestrian Interaction Design Using a Pedestrian Mixed Traffic Simulator. _In Proceedings of the ACM Conference on Designing Interactive Systems (DIS), 2019._
 
 [[2]](https://drive.google.com/file/d/1kHu27P6i4ICVxfAhdcj-c53FAUsyFIHQ/view?usp=sharing) Karthik Mahadevan, Sowmya Somanath, and Ehud Sharlin. Communicating Awareness and Intent in Autonomous Vehicle-Pedestrian Interaction. _In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI), 2018._
 
