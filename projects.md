@@ -4,7 +4,7 @@ title: Projects
 ---
 
 ### Autonomous Vehicle-Pedestrian Interaction in Mixed Traffic
-![Mixed-Traffic](img/MixedTraffic.jpg)
+![Mixed-Traffic](img/MixedTraffic.png)
 
 As autonomous vehicles will be gradually introduced to our streets, we will see a mixed composition of manually-driven, semi-autonomous, and autonomous vehicles during the transition period. We studied how pedestrians may interact with this intricate mix of vehicles with implications for designing future autonomous vehicle-pedestrian interfaces.
 
