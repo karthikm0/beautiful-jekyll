@@ -6,7 +6,7 @@ title: Publications
 ### Peer-Reviewed
 [1] Ming Hou, Karthik Mahadevan, Sowmya Somanath, Lora Oehlberg, and Ehud Sharlin. Autonomous Vehicle-Cyclist Interaction: Peril and Promise. _In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI), 2020._
 
-[[2]](https://drive.google.com/drive/u/1/folders/1e9-xgttLHRV5JhX4ZVXkCuxZ3Iccfyqn) Karthik Mahadevan, Elaheh Sanoubari, Sowmya Somanath, James E. Young and Ehud Sharlin. AV-Pedestrian Interaction Design Using a Pedestrian Mixed Traffic Simulator. _In Proceedings of the ACM Conference on Designing Interactive Systems (DIS), 2019._
+[[2]](https://drive.google.com/file/d/1qI-qflWH-mTDQjtJ_w3bwDYYDoT-sIo2/view?usp=sharing) Karthik Mahadevan, Elaheh Sanoubari, Sowmya Somanath, James E. Young and Ehud Sharlin. AV-Pedestrian Interaction Design Using a Pedestrian Mixed Traffic Simulator. _In Proceedings of the ACM Conference on Designing Interactive Systems (DIS), 2019._
 
 [[3]](https://drive.google.com/file/d/1kHu27P6i4ICVxfAhdcj-c53FAUsyFIHQ/view?usp=sharing) Karthik Mahadevan, Sowmya Somanath, and Ehud Sharlin. Communicating Awareness and Intent in Autonomous Vehicle-Pedestrian Interaction. _In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI), 2018._
 
